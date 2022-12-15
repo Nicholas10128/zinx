@@ -7,12 +7,11 @@
 package main
 
 import (
-	"github.com/aceld/zinx/examples/zinx_server/zrouter"
-	"github.com/aceld/zinx/ziface"
-	"github.com/aceld/zinx/zlog"
-	"github.com/aceld/zinx/znet"
+	"github.com/Nicholas10128/zinx/examples/zinx_server/zrouter"
+	"github.com/Nicholas10128/zinx/ziface"
+	"github.com/Nicholas10128/zinx/zlog"
+	"github.com/Nicholas10128/zinx/znet"
 )
-
 
 //创建连接的时候执行
 func DoConnectionBegin(conn ziface.IConnection) {

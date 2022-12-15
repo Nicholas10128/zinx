@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/aceld/zinx/examples/zinx_version_ex/protoDemo/pb"
+	"github.com/Nicholas10128/zinx/examples/zinx_version_ex/protoDemo/pb"
 	"github.com/golang/protobuf/proto"
 )
 
