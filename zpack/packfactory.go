@@ -1,7 +1,7 @@
 package zpack
 
 import (
-	"github.com/aceld/zinx/ziface"
+	"github.com/Nicholas10128/zinx/ziface"
 	"sync"
 )
 

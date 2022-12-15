@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/aceld/zinx/utils"
-	"github.com/aceld/zinx/ziface"
-	"github.com/aceld/zinx/zpack"
+	"github.com/Nicholas10128/zinx/utils"
+	"github.com/Nicholas10128/zinx/ziface"
+	"github.com/Nicholas10128/zinx/zpack"
 )
 
 var zinxLogo = `                                        

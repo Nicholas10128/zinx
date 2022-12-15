@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/aceld/zinx/zlog"
+	"github.com/Nicholas10128/zinx/zlog"
 )
 
 /*

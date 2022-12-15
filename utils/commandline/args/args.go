@@ -1,7 +1,7 @@
 package args
 
 import (
-	"github.com/aceld/zinx/utils/commandline/uflag"
+	"github.com/Nicholas10128/zinx/utils/commandline/uflag"
 	"os"
 	"path"
 )
