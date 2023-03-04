@@ -117,7 +117,7 @@ func init() {
 	// 解析
 	uflag.Parse()
 	// 解析之后的操作
-	args.FlagHandle()
+	//args.FlagHandle()
 
 	//初始化GlobalObject变量，设置一些默认值
 	GlobalObject = &GlobalObj{
